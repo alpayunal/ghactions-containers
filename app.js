@@ -1,6 +1,6 @@
 // import bodyParser from 'body-parser';
-var bodyParser = require('body-parser')
-import express from 'express';
+var bodyParser = require('body-parser');
+var express = require ('express');
 
 import eventRoutes from './routes/events.js';
 
